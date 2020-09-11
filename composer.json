@@ -1,0 +1,15 @@
+{
+    "name": "asiries335/redis-streams-php-viewer",
+    "description": "viewer for Redis stream",
+    "type": "project",
+    "require": {
+        "asiries335/redis-stream-php": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "asiries335",
+            "email": "asiries335@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
